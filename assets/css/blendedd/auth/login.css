@@ -1,0 +1,9 @@
+div.well_blocks{ min-height: 408px;}
+.main-box {margin-bottom:137px;}
+.login-page {   background:#fff; box-shadow:1px 1px #efefef; border:1px solid #dedede; -webkit-border-radius: 4px;  -moz-border-radius: 4px; border-radius: 4px;}
+#login-page .form-signin-heading { border-bottom: 1px solid #e6e6e6; padding-bottom:12px; font-size:20px;}
+.login-page label { color:#666; font-weight: normal;}
+.home-icon { color:#06aae7;}
+#login-page h6 { font-size:14px; color:#333; padding:14px 0 10px 0;}
+.login_blended {   background:#fff; box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset; border:1px solid #dedede;  -webkit-border-radius: 4px;  -moz-border-radius: 4px; border-radius: 4px;}
+.right { float: right;}

@@ -1,0 +1,10 @@
+.relates-result-list {list-style: none; margin:0px; padding:0px;}
+.relates-result-list > li { display: inline-block; border-right:1px solid #06aae7; line-height:17px; }
+.relates-result-list > li a {padding:0 10px; }
+.relates-result-list > li:last-child, .relates-result-list > li:first-child { border-right: none;}
+.price {color:red;}
+.hr-nomargin { margin:3px 0}
+strong {color:black;}
+.selectpicker { border:1px solid #dadada; color:#06aae7; background:#fff; }
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img { display: inline;}
+

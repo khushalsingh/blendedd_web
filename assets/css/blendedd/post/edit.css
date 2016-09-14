@@ -1,0 +1,8 @@
+a.remove_image_button{
+	cursor: pointer;
+    margin-right: -12px;
+    margin-top: -12px;
+}
+ul#uploaded_images li{
+	height: 200px;
+}
